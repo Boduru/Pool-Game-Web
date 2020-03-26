@@ -44,7 +44,7 @@ _Collision detection algorithms_
 ```
 
 ## Ball collision response
-Method that allows to replace and change the trajectory of two differents balls that collide with each other
+Method that allows to replace and change the trajectory of two differents balls taht collides with each other
 
 ```javascript
 if (this.do_rect_collide(other)) {
