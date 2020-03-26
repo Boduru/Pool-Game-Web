@@ -94,7 +94,7 @@ if (this.do_rect_collide(other)) {
 ```
 
 ## Improvements
-Feature | Details
+Features | Details
 ------------ | -------------
 Collisions Handler | Add a better collision handler that provides better perfomances and allows to locate the balls within a virtual grid to decrease the number of collision tests per frame
 Drawing method | Add image display
