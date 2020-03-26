@@ -2,8 +2,6 @@
 Web pool game on web canvas using javascript
 Engine created with maths, geometric equations and vector calculations
 
-![GitHub Logo](C:\Users\jim\Desktop\Capture.PNG)
-
 ## Ball collision detection
 _Collision detection algorithms_
 
@@ -95,4 +93,8 @@ if (this.do_rect_collide(other)) {
 		}
 ```
 
-## Improvments
+## Improvements
+Feature | Details
+------------ | -------------
+Collisions Handler | Add a better collision handler that provides better perfomances and allows to locate the balls within a virtual grid to decrease the number of collision tests per frame
+Drawing method | Add image display
