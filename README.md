@@ -1,5 +1,6 @@
 # Pool Game Web
 Web pool game on web canvas using javascript.
+
 Engine created using maths, geometric equations and vector calculations.
 
 ## Ball collision detection
