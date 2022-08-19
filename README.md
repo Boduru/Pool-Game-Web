@@ -44,7 +44,7 @@ _Collision detection algorithms_
 ```
 
 ## Ball collision response
-Method that allows to replace and change the trajectory of two differents balls taht collides with each other
+Method that allows to replace and change the trajectory of two different balls that collide with each other
 
 ```javascript
 if (this.do_rect_collide(other)) {
@@ -97,5 +97,5 @@ if (this.do_rect_collide(other)) {
 ## Improvements
 Features | Details
 ------------ | -------------
-Collisions Handler | Add a better collision handler that provides better perfomances and allows to locate the balls within a virtual grid to decrease the number of collision tests per frame
+Collision Handler | Add a better collision handler that provides better perfomance and allows to locate the balls within a virtual grid to decrease the number of collision checks per frame
 Drawing method | Add image display
